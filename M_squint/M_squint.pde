@@ -1,3 +1,12 @@
+/*
+
+'Please squint'
+Jamie Yeo 27/08/2012
+jamie.yeowl@gmail.com
+
+*/
+
+
 size(400, 400);
   background(255);
   smooth();
